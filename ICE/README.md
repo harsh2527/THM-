@@ -10,8 +10,16 @@
 ````
 ICECAST 
 ````
-
+```
+Tip of the day use your adaptername insted of your ip on metasploit if you dont known your machine ip.
+```
 # TASK 1(BASIC CONNECT TO OPENVPN)
+```
+ download your Openvpn config from tryhackme
+ go to the file where your config is stored then execute following command
+ sudo openvpn <yourvpnconfig file name>.ovpn
+ 
+```
 
 # TASK 2(RECON)
 ````
