@@ -13,7 +13,7 @@ ICECAST
 
 # TASK 1(BASIC CONNECT TO OPENVPN)
 
-# TASK 2 RECON
+# TASK 2(RECON)
 ````
 nmap -sC -sV 10.10.19X.18X
 ````
@@ -70,7 +70,7 @@ Following selecting our module, we now have to check what options we have to set
 ANS- RHOSTS
 ````
 
-# TASK 4- ESCALATION
+# TASK 4(ESCALATION)
 ````
 Woohoo! We've gained a foothold into our victim machine! What's the name of the shell we have now?
 
@@ -110,7 +110,7 @@ ANS- SETAKEOWNERSHIPPRIVILEGE
 ````
 
 
-# TASKB 5 LOOTING
+# TASKB 5(LOOTING)
 
 ````
 
