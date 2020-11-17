@@ -1,4 +1,4 @@
-#ICE THM
+# ICE THM
  
 
  > Harsh Malhotra ,16th november 2020
@@ -110,7 +110,7 @@ ANS- SETAKEOWNERSHIPPRIVILEGE
 ````
 
 
-# TASK5 LOOTING
+# TASKB 5 LOOTING
 
 ````
 
